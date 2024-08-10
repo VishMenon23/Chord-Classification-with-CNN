@@ -30,10 +30,6 @@ The goal of this project is to accurately classify audio files as either major o
 - `Image_Folder/`: Stores the generated spectrogram images from the audio files.
 - `Scale_Recognition.ipynb`: Jupyter notebook with the full implementation.
 
-## Results
-
-The CNN model achieves an accuracy of approximately X% on the validation set and Y% on the test set, demonstrating its effectiveness in classifying major and minor chords.
-
 ## Conclusion
 
 
