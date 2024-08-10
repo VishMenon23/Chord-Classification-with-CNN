@@ -11,7 +11,7 @@ The goal of this project is to accurately classify audio files as either major o
 4. **Evaluation**: The trained model is evaluated on unseen data to determine its accuracy and robustness.
 
 ## Directory Structure
-
+```
 ├── Chords/
 │ ├── Major/
 │ │ ├── Major_1.wav
@@ -24,7 +24,7 @@ The goal of this project is to accurately classify audio files as either major o
 ├── Image_Folder/
 │ ├── Major/
 │ └── Minor/
-
+```
 
 - `Chords/`: Contains the audio files categorized into Major and Minor chords.
 - `Image_Folder/`: Stores the generated spectrogram images from the audio files.
